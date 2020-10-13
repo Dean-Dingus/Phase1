@@ -1,0 +1,9 @@
+There are four files on this blog site. home.html is the landing page, and all pages can be accessed from all other pages thanks to my nav bar.
+The home page does not use very much bootstrap, but the other three html files all make good use of bootstrap. home.html mostly uses normal CSS techniques. 
+I made the pages in the order of home, about, blog, and contact.
+The bootstrap for about.html took a long time to figure out, but I could reuse that content more or less for blog and contact.
+I added the js for the contact.html as an afterthought. The html input fields and "required" tags should cover everything, but the js validation gives my page a bit more security.
+I own neither of the pictures used in this project, and I make no claim to be their owner. I do not want to get into copyright trouble.
+I wrote the blogs myself, which I'm sure is obvious. I had fun writing them.
+The TCS laptop cannot install git or even visit github.com. That was very problematic for this assignment, so I sent all of the files to my personal computer and uploaded them manually to my private GitHub account. I could not do the proper push/pull/branching git functions throughout
+	this product's creation because of my company's limitations.
